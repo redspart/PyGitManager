@@ -153,3 +153,5 @@ MANIFEST
 
 # Per-project virtualenvs
 .venv*/
+unittest.tar
+_unittest*
