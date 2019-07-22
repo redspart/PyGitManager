@@ -3,8 +3,8 @@
 import pytest
 from pygitmanager.skeleton import fib
 
-__author__ = "hnguyen"
-__copyright__ = "hnguyen"
+__author__ = "hnguyen, redspart"
+__copyright__ = "hnguyen, cdecker.developer@gmail.com"
 __license__ = "mit"
 
 
